@@ -28,7 +28,7 @@
 		"@commitlint/config-conventional": "^19.8.1",
 		"@types/node": "^18.19.104",
 		"dotenv": "16.4.5",
-		"esbuild": "0.20.2",
+		"esbuild": "0.28.1",
 		"lefthook": "1.8.4",
 		"lint-staged": "^15.5.2",
 		"tsx": "4.16.2"
