@@ -9,13 +9,13 @@
 		"typecheck": "tsc --noEmit"
 	},
 	"dependencies": {
-		"inngest": "3.54.0",
+		"inngest": "4.27.0",
 		"@dokploy/server": "workspace:*",
-		"@hono/node-server": "^1.14.3",
+		"@hono/node-server": "^2.1.6",
 		"@hono/zod-validator": "0.3.0",
 		"@nerimity/mimiqueue": "1.2.3",
 		"dotenv": "^16.4.5",
-		"hono": "^4.13.16",
+		"hono": "^4.13.23",
 		"pino": "9.4.0",
 		"pino-pretty": "11.2.2",
 		"react": "18.2.0",
